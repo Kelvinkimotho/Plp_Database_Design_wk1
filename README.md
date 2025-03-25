@@ -25,6 +25,7 @@
  1. Write an SQL query to create a new database called **salesDB**.
      ![query1](created_salesdb.png) 
  3. Write an SQL query to drop (delete) the database called **demo**.
+     ![query2](created_then_droped_demo_db.png) 
     
 
 ---
